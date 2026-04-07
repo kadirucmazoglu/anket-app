@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/anket-app/static/css/main.e6c13ad2.css",
+    "main.js": "/anket-app/static/js/main.654d5d65.js",
+    "static/js/453.3e4e2b26.chunk.js": "/anket-app/static/js/453.3e4e2b26.chunk.js",
+    "index.html": "/anket-app/index.html",
+    "main.e6c13ad2.css.map": "/anket-app/static/css/main.e6c13ad2.css.map",
+    "main.654d5d65.js.map": "/anket-app/static/js/main.654d5d65.js.map",
+    "453.3e4e2b26.chunk.js.map": "/anket-app/static/js/453.3e4e2b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.654d5d65.js"
+  ]
+}
